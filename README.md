@@ -4,23 +4,17 @@ Hello everyone,
 
 I hope this message finds you well! It’s my privilege to share an in-depth look at what Telestai has accomplished in 2024. As one of the key developers, I’ve had the honor of contributing to and shaping our ecosystem alongside a dedicated team and community. This report dives into our milestones, challenges, and vision for the future.
 
----
-
 ## **Chain Deployment**
 
 On **August 4th, 2024**, Telestai officially launched its blockchain, a significant milestone announced on [Bitcointalk](https://bitcointalk.org/index.php?topic=5505103.0). The rollout went exceptionally smoothly, marking the final test of the **Meraki algorithm**, which has since proven itself to be robust and efficient.
 
 Our initial focus after the chain launch was to establish a **basic website**. While the first iteration was functional, the site has undergone three major updates, each packing in more information and presenting it with an increasingly minimalist and user-friendly layout. You can see the latest version at [https://www.telestai.io/](https://www.telestai.io/).
 
----
-
 ## **Documentation: Empowering Developers and Users**
 
 Clear documentation is foundational to any blockchain ecosystem. We’ve built a comprehensive, open-source **documentation center** at [https://docs.telestai.io/](https://docs.telestai.io/) to serve both developers and end-users. 
 
 We see documentation as a collaborative effort, and contributions are always welcome. Anyone can fork the repository, make updates, and submit a PR. Valid contributions are rewarded—just include your Telestai address in the PR. This collaborative approach ensures that our documentation evolves alongside our technology.
-
----
 
 ## **Wallet Ecosystem: Versatility for Every User**
 
@@ -31,8 +25,6 @@ Recognizing that different users have unique needs, we’ve rolled out a range o
 - **Core Wallet**: The full-featured standard for power users.
 
 All wallets are accessible via our documentation page, with direct links to their respective GitHub repositories.
-
----
 
 ## **Lascaux: Redefining Decentralized Social Media**
 
@@ -60,8 +52,6 @@ The Lascaux frontend is **closed-source**, a deliberate decision to ensure platf
 
 As we look toward **v4**, our focus will be on revenue-sharing models for creators and mobile optimization to bring Lascaux to a broader audience.
 
----
-
 ## **Mercatus: Data Transparency on Your Terms**
 
 Mercatus is an experimental platform for **user-driven data sharing**. Unlike traditional platforms, where users are the product, Mercatus gives users full control:
@@ -71,8 +61,6 @@ Mercatus is an experimental platform for **user-driven data sharing**. Unlike tr
 
 While still in its early stages, Mercatus represents our commitment to **ethical data practices** and **user empowerment**.
 
----
-
 ## **Zeroa: The Identity Layer**
 
 Zeroa is the browser extension that ties the ecosystem together. It serves as both:
@@ -81,13 +69,19 @@ Zeroa is the browser extension that ties the ecosystem together. It serves as bo
 
 This extension provides seamless authentication for Telestai platforms, such as Lascaux, while giving users full control over their identity and data.
 
----
-
 ## **Telestai Creator Bubble OS**
 
-Security is paramount, which is why we’re building the **Telestai Creator Bubble OS**. Spearheaded by Topper, this operating system prioritizes privacy and censorship resistance through tools like **Tor networking**. It will include secure communication applications and Telestai integration. We look forward to its release in 2025.
+The **Telestai Creator Bubble OS** is designed to be a secure, privacy-focused operating system tailored for creators and developers. Over the past few weeks, significant progress has been made in integrating the OS into the Telestai ecosystem:
 
----
+- **Electrum Wallet Integration**: The Electrum Wallet has been successfully incorporated, providing lightweight and secure wallet functionality within the OS.
+- **Ecosystem Access**: Access to key Telestai tools, such as Lascaux, the web wallet, and other core utilities, has been seamlessly added, making the OS a centralized hub for interacting with the Telestai ecosystem.
+- **Documentation Progress**: Approximately 75% of the documentation for the OS’s tools and functions has been completed, providing clear guidance for users upon release.
+- **Repository Setup**: The repository for hosting the OS distribution has been created and is now active. Users will be able to easily point their systems to this repository for updates and installations.
+- **Security Updates**: A comprehensive update to the OS’s security packages is planned for January, ensuring the system remains robust and ready for use.
+- **Release Timeline**: With documentation and security updates nearing completion, the first official release is projected for the second half of January 2025.
+
+The Creator Bubble OS not only prioritizes privacy and security through tools like Tor networking but also integrates tightly with the broader Telestai ecosystem, making it a powerful platform for creators to work securely, communicate privately, and engage fully with Telestai’s offerings.
+
 
 ## **Looking Ahead**
 
